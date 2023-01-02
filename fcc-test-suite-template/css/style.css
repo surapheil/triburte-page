@@ -1,0 +1,41 @@
+header{
+    text-align:center;
+    padding:3px;
+    background-color:rgb(194,194,194);
+}
+img{
+    max-width: 100%;
+    height:auto;
+    display:block;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-caption{
+    text-align: center;
+}
+#center{
+    text-align:center;
+    background-color: rgb(230,230,230);
+}
+#tribute-info{
+    display: inline-block;
+    text-align:left;
+    max-width: 600px;
+    margin-left: 0;
+    margin-right: 0;
+   
+
+}
+h2{
+    text-align:center;
+}
+h3{
+    text-align:center;
+}
+blockquote{
+    text-align: center;
+}
+#color{
+    background-color:rgb(230,230,230);
+}
